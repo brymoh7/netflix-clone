@@ -2,4 +2,4 @@
 
 
 
-file://C:/Users/LENOVO/Documents/GitHub/netflix-clone/index.html
+https://tb-netflix-clone.netlify.app/
