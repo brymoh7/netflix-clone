@@ -1,4 +1,5 @@
 # 
 
 [created with StackBlitz ⚡️]
-https://netflix-clone-projects-atqeq6.stackblitz.io/
+
+file:///C:/Users/LENOVO/Documents/GitHub/netflix-clone/index.html
